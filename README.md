@@ -3,7 +3,7 @@
 This repository contain the assignments submitted for the **'END 2'** by **'The School Of AI**.
 
 ## Team - PyLinguists
-1. GARIMA
+1. Garima
 2. 
 3. 
 4. 
