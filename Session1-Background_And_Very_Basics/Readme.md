@@ -1,3 +1,5 @@
+# Session 1 Assignment
+
 **What is a neural network neuron?**
 
 A neural network neuron is a memory storage that is intended to mimic the biological neuron present in brains. Once the network receives an input, it gets scaled up according to a(n) (initially) random weights and then after adding bias into it , we pass the value through an activation function and finally the activated value gets stored into the neuron. The output of each neuron is used as an input for subsequent layers until we reach the last layer, in which the outputs are the output of the neural network itself.
